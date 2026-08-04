@@ -1,7 +1,9 @@
 # Four solaire Low-tech
 
 Ce répertoire contient tous les éléments afin de construire un four solaire low-tech DIY.
+
 Ce four a été réalisé par Q.Raball pour le cours WINS 2026 de la HEIG-VD : https://heig-vd.ch/campus/ateliers-jeunes/wins/
+
 Il a grandement été inspiré par le four Atominique dont la documentation, les plans, les instructions sont disponibles ici : https://four-atominique.retzien.fr/index.php?title=Accueil
 
 ## Structure 
