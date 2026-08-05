@@ -12,7 +12,7 @@ Il a grandement été inspiré par le four Atominique dont la documentation, les
 
 ## Structure du Git
 ### Le dossier "CAO" contient les éléments suivants :
-- Un fichier de prévisualisation du four au format EDrawings avec les deux configuration du four (ouvert/fermé). Le format EDrawing est très simple d'utilisation et permet de garder les configurations, les textures, la nomenclature, etc... Le logiciel est disponible gratuitement ici : https://www.edrawingsviewer.com/download-edrawings
+- Un fichier de prévisualisation du four au format EDrawings avec les deux configuration du four (ouvert/fermé). Le format EDrawings est très simple d'utilisation et pratique. Il est possible de bouger l'assemblage, de cacher certaines parties, de mettre en transparence certain éléments et permet de garder les configurations, les textures, la nomenclature, etc... Le logiciel est disponible gratuitement ici : https://www.edrawingsviewer.com/download-edrawings
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/fd0068ed-4317-41c4-a9ba-3c94d6a543da" />
 
 - Dossier "STEP" avec toutes les pièces en 3D, au format STEP, ainsi que les fichiers d'assemblages final (Assemblage_Four_Deflecteur.STEP).
