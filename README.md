@@ -19,8 +19,9 @@ Il a grandement été inspiré par le four Atominique dont la documentation, les
 - Dossier "Solidworks" avec toutes les pièces en 3D, au format solidworks 2024, ainsi que les fichiers d'assemblages final (Assemblage_Four_Deflecteur.SLDASM).
 
 ### Le dossier "Docs" contient les éléments suivants : 
-- La liste du matériel nécessaire à la fabrication (BOM), avec dimensions, quantités, prix, lien d'achat. Le classeur contient trois onglets: Le BOM par sous-assemblage, le BOM par type de composant et une liste de choix de miroirs pour l'intérieur et l'extérieur du four au cas où ceux dans les les autres ne sont plus disponibles à l'achat.
+- Un dossier "BOM" avec la liste du matériel nécessaire à la fabrication (BOM), avec dimensions, quantités, prix, lien d'achat. Le classeur contient trois onglets: Le BOM par sous-assemblage, le BOM par type de composant et une liste de choix de miroirs pour l'intérieur et l'extérieur du four au cas où ceux dans les les autres ne sont plus disponibles à l'achat.
 <img width="1894" height="778" alt="image" src="https://github.com/user-attachments/assets/34618da0-ed45-4ba0-a03d-0dbc04a2f959" />
+- Un dossier "Retour d'expérience" avec les différents problèmes rencontrés et les solutions mises en place.
 
 ### Le dossier "Plan" contient les éléments suivants : 
 - Dossier "DXF" avec les fichiers de découpes afin de découper les panneaux de bois par technologie laser.
