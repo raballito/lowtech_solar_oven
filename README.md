@@ -6,9 +6,10 @@ Ce répertoire contient tous les éléments afin de construire un four solaire l
 
 
 
-Ce four a été réalisé par Q.Raball dans le cadres des WINS 2026 de la HEIG-VD : https://heig-vd.ch/campus/ateliers-jeunes/wins/
+Ce four a été réalisé par Q.Raball dans le cadres du stage WINS 2026 de la HEIG-VD : https://heig-vd.ch/campus/ateliers-jeunes/wins/
 
 Il a grandement été inspiré par le four Atominique dont la documentation, les plans, les instructions sont disponibles ici : https://four-atominique.retzien.fr/index.php?title=Accueil
+Il reprend aussi certain élément intéressant du séchoir solaire des "Chemins de faire" disponible ici : https://wiki.lowtechlab.org/wiki/S%C3%A9choir_solaire_d%C3%A9montable
 
 ## Structure du Git
 ### Le dossier "CAO" contient les éléments suivants :
@@ -41,9 +42,11 @@ Il a grandement été inspiré par le four Atominique dont la documentation, les
 - De quoi mesurer (règle, mètre déroulant) et écrire sur le bois (crayon de préférence).
 - Une équerre à chapeau (DIN 875-2 idéalement), pour tracer des perpendiculaires et servir de guide à la découpe.
 - Des serre-joints, ou pinces de bridage afin de maintenir deux éléments ensemble. Cela peut être pratique pour les positions des perçages si le plan n'est pas respecté à la lettre.
-- Une scie pour la découpe des tasseaux de bois et des tôles / miroirs. Un cutter peut être utile aussi.
-- Une perceuse à colonne avec un jeu de mèches à bois. La plupart des trous sont Ø5, Ø9 ou Ø10. Les pré-trous pour les vis peuvent être fait avec une mèche de Ø2 (à adapter en fonction de la dureté du bois).
+- Une scie (sauteuse) pour la découpe des tasseaux de bois et des tôles / miroirs. Un cutter peut être utile aussi.
+- Une perceuse à colonne avec un jeu de mèches à bois. La plupart des trous sont Ø5, Ø9 ou Ø10. Les pré-trous pour les vis peuvent être fait avec une mèche de Ø2 (à adapter en fonction de la dureté du bois et de la taille des vis utilisées).
 - Des mèches pour lamage droit / mèche à façonner / mèche-fraise plate de Ø20 ou Ø21 pour les têtes de vis et une de Ø13 ou Ø14 pour les écrous.
+- Une mèche à tôle de Ø5 pour percer la tôle en acier. Une mèche standard peut se coincer et peut être dangereux.
+- Eventuellement, une petite perceuse électroportative sur batterie peut être utile.
 
 ### Montage
 - Tournevis / visseuse avec embout adapté aux vis utilisées.
@@ -53,3 +56,10 @@ Il a grandement été inspiré par le four Atominique dont la documentation, les
 
 <img width="1920" height="1080" alt="Four Solaire Ouvert (3)" src="https://github.com/user-attachments/assets/41fd2d23-7234-4313-a584-c52661167f8c" />
 
+
+## Améliorations possibles / recommandées
+- Afin de protéger les miroirs des rayures lorsqu'on les replies, les miroirs sont tapissés derrière la surface réfléchissante d'un tissus fin, et les charnières sont recouvertes d'un feutre. Des patins en caoutchouc ont été ajoutés sur le bas du cadre pour éviter que le grand miroir du dessus repose sur le bois directement.
+- Remplacer les tringles en acier par un dispositif plus rigide. Au vu de la longueur des tringles prévues, elles ont tendances à fléchir. Pour éviter le fléchissement, il faut soit agrandir le diamètre de la tringle, soit raccourcir celle-ci. Sinon, il est aussi possible de changer le dispositif de réglage par une plaque en bois avec des secteurs. Un exemple de système de réglage est proposé à la fois dans les fichiers de découpes, les plans. Ne pas hésiter à adapter les formes, le nombre de trous à convenance.
+- Il peut être judicieux d'ajouter un tablard sur le dessus afin de poser le plat à cuisiner pour ouvrir la porte. Par contre, si le dispositif est fixe, il devient plus compliqué de stocker le four à plat une fois démonté. Il est aussi plus compliqué de faire une four de protection adaptée avec un tel élément qui dépasse.
+- Comme le four est lourd et encombrant, il peut être bien de le monter sur un chariot ou de rajouter des pieds à roulettes pour le déplacer. Un module supplémentaire sera inclus pour la version 2 du four.
+- Le choix des matériaux pour les miroirs dépend fortement du budget à disposition. Plusieurs solutions sont possibles: plaques inox miroirs (lourd), panneaux de bois recouvert d'un film miroir (moins durable, plus simple), miroirs en plastiques (peut jaunir avec le temps), panneau Alucobond/Dibond (très cher et impossible d'avoir en petite quantité)
