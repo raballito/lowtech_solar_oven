@@ -24,6 +24,7 @@ Il reprend aussi certain élément intéressant du séchoir solaire des "Chemins
 <img width="1894" height="778" alt="image" src="https://github.com/user-attachments/assets/34618da0-ed45-4ba0-a03d-0dbc04a2f959" />
 
 - Un dossier "Retour d'expérience" avec les différents problèmes rencontrés et les solutions mises en place.
+- Un dossier "Choix des matériaux" avec les différents matériaux utilisés, les raisons des choix et les alternatives possibles.
 
 
 ### Le dossier "Plan" contient les éléments suivants : 
