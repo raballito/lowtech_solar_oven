@@ -9,6 +9,7 @@ Ce répertoire contient tous les éléments afin de construire un four solaire l
 Ce four a été réalisé par Q.Raball dans le cadres du stage WINS 2026 de la HEIG-VD : https://heig-vd.ch/campus/ateliers-jeunes/wins/
 
 Il a grandement été inspiré par le four Atominique dont la documentation, les plans, les instructions sont disponibles ici : https://four-atominique.retzien.fr/index.php?title=Accueil
+
 Il reprend aussi certain élément intéressant du séchoir solaire des "Chemins de faire" disponible ici : https://wiki.lowtechlab.org/wiki/S%C3%A9choir_solaire_d%C3%A9montable
 
 ## Structure du Git
